@@ -1,4 +1,4 @@
-#My new mini project
+#I made this project using Dictionaries, just wanted to use it somewhere 
 def shopping():
   shopping_list= []
   cost=0
