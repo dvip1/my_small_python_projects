@@ -1,3 +1,6 @@
+#I wanted to make a project about linked list
+#One day I was thinking how fast time is going and made this one
+#hope you enjoy!
 class space_time:
     def __init__(self, place_and_time= None):
         self.place_and_time= place_and_time
