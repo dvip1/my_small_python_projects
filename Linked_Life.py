@@ -30,10 +30,10 @@ if __name__=="__main__":
     new_life= Life()
     #A new journey begins here 
     new_life.birth= space_time("Gujarat,Bhilad; 26/01/04,23:45 ")
-    "Ihave made countless mistakes after that^^
-    This mistakes made me who I am
-    "
+   # Ihave made countless mistakes after that^^
+   # This mistakes made me who I am
+    
     new_life.insert_place_and_time(" ") #I've visited many places after my birth
     #and yeah, life keeps inserting places with different time thereafter.
-    #and one day it will stop, I'll keep on living till then.
+    #and one day it will stop, I'll keep on living till then!
 
