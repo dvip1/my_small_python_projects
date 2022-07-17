@@ -35,8 +35,7 @@ if __name__=="__main__":
     while True:
         new_life.insert_place_and_time(" ") 
         #I've visited many places after my birth
-        #and yeah, life keeps inserting places with different time thereafter.
-        #and one day it will stop
+        #and yeah, life keeps inserting places with different time thereafter 
         break #and one day it will break 
     #I'll keep on living till then!
 
