@@ -1,5 +1,5 @@
 #I wanted to make a project about linked list
-#One day I was thinking about how fast ime is going and made this one
+#One day I was thinking about how fast time is going and made this one
 #hope you enjoy! 
 class space_time:
     def __init__(self, place_and_time= None):
