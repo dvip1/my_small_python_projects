@@ -8,7 +8,7 @@ class space_time:
 class Life:
     def __init__(self):
         self.birth= None
-    def insert_place_and_time(self, pat): #pat is short for space and time
+    def insert_place_and_time(self, pat): #pat is short for place and time
         new= space_time(pat)
         connections= self.birth
         while(connections.next):
